@@ -70,7 +70,7 @@ with st.sidebar:
     
     st.divider()
     st.markdown("**Related Project:**")
-    st.markdown("[🔬 Steel Defect Detector App](https://steel-defect-detector-m57ct4lq6jkouwkxmbjths.streamlit.app/)")
+    st.markdown("[🔬 Steel Surface Defect Detector App](https://steel-defect-detector-r2krsf2m5fvscfmzpetxa5.streamlit.app/)")
 
 #section 1 - class distribution
 st.header("1. Class Distribution")
