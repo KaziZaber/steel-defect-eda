@@ -54,7 +54,7 @@ VAL_COUNTS = {cls: 60 for cls in CLASSES}
 #title
 st.title("📊 NEU Steel Surface Defect Dataset Explorer")
 st.markdown("**Interactive exploration of the NEU Steel Surface Defect Dataset used to train the defect detection model**")
-st.markdown("Dataset: 1,800 images across 6 defect classes — used to train a ResNet18 model achieving 95% validation accuracy")
+st.markdown("Dataset: 1,800 images across 6 defect classes — used to train a ResNet18 model achieving 95.8% validation accuracy")
 
 st.divider()
 
